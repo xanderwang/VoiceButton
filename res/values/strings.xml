@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VoiceTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="ready_to_start">I\'m Ready!</string>
+    
+    <string name="startButton">Start</string>
+    <string name="stopButton">Stop</string>
+    
+    <string name="startTest">Start voice test!</string>
+    <string name="stopTest">Stop voice test!</string>
+    <string name="testResult">Test result is : </string>
+
+</resources>
